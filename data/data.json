@@ -1,0 +1,98 @@
+{
+    "data": {
+        "pageContent": [
+            {
+                "id": "1111",
+                "goodsId": "1111",
+                "goodsName": "商品名1",
+                "goodsKey": "NUM1",
+                "goodsContent":  "泥萌好，我是商品1"
+            },
+            {
+                            "id": "1111",
+                            "goodsId": "1111",
+                            "goodsName": "商品名1",
+                            "goodsKey": "NUM1",
+                            "goodsContent": "泥萌好，我是商品1"
+            },
+            {
+                            "id": "1111",
+                            "goodsId": "1111",
+                            "goodsName": "商品名1",
+                            "goodsKey": "NUM1",
+                            "goodsContent":  "泥萌好，我是商品1"
+                        },
+            {
+                            "id": "1111",
+                            "goodsId": "1111",
+                            "goodsName": "商品名1",
+                            "goodsKey": "NUM1",
+                            "goodsContent":  "泥萌好，我是商品1"
+                        },
+            {
+                            "id": "1111",
+                            "goodsId": "1111",
+                            "goodsName": "商品名1",
+                            "goodsKey": "NUM1",
+                            "goodsContent":  "泥萌好，我是商品1"
+                        },
+                        {
+                                        "id": "1111",
+                                        "goodsId": "1111",
+                                        "goodsName": "商品名1",
+                                        "goodsKey": "NUM1",
+                                        "goodsContent":  "泥萌好，我是商品1"
+                        },
+                        {
+                                        "id": "1111",
+                                        "goodsId": "1111",
+                                        "goodsName": "商品名1",
+                                        "goodsKey": "NUM1",
+                                        "goodsContent":  "泥萌好，我是商品1"
+                                    },
+                        {
+                                        "id": "1111",
+                                        "goodsId": "1111",
+                                        "goodsName": "商品名1",
+                                        "goodsKey": "NUM1",
+                                        "goodsContent":  "泥萌好，我是商品1"
+                                    },
+            {
+                            "id": "1111",
+                            "goodsId": "1111",
+                            "goodsName": "商品名1",
+                            "goodsKey": "NUM1",
+                            "goodsContent":  "泥萌好，我是商品1"
+                        },
+                        {
+                                        "id": "1111",
+                                        "goodsId": "1111",
+                                        "goodsName": "商品名1",
+                                        "goodsKey": "NUM1",
+                                        "goodsContent":  "泥萌好，我是商品1"
+                        },
+                        {
+                                        "id": "1111",
+                                        "goodsId": "1111",
+                                        "goodsName": "商品名1",
+                                        "goodsKey": "NUM1",
+                                        "goodsContent":  "泥萌好，我是商品1"
+                                    },
+                        {
+                                        "id": "1111",
+                                        "goodsId": "1111",
+                                        "goodsName": "商品名1",
+                                        "goodsKey": "NUM1",
+                                        "goodsContent":  "泥萌好，我是商品1"
+               }
+
+        ],
+        "page": {
+            "currentPageNo": 1,
+            "pageSize": 20,
+            "totalCount": 1212,
+            "totalPageCount": 1212
+        }
+    },
+    "status": 1
+}
