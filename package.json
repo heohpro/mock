@@ -1,0 +1,27 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "provide mock APIs which support GET,POST etc.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hexiaoming/mock.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "heqingyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hexiaoming/mock/issues"
+  },
+  "homepage": "https://github.com/hexiaoming/mock#readme"
+}
